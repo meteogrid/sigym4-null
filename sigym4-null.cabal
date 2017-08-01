@@ -21,7 +21,7 @@ library
       Sigym4.Null
     , Sigym4.Null.Maybe
   build-depends:
-      base >=4.9 && <4.10
+      base >=4.9 && <4.11
     , deepseq
     , newtype
     , vector
